@@ -1,5 +1,5 @@
 # WhatsappChatAnalyzer
-### Just go to [https://chat-analyzer-geh0.onrender.com](URL) To Check the App
+### Just go to [https://chat-analyzer-geh0.onrender.com] To Check the App
 This is a simple WhatsApp chat analyzer web application built with Python Flask framework. It allows users to upload their exported WhatsApp chat history and generates various statistics and visualizations. It uses the Pandas and Matplotlib libraries to process and visualize the data.
 
 ##Installation
